@@ -1,0 +1,156 @@
+{
+    "timeline":
+    {
+        "headline":"Народився",
+        "type":"default",
+        "text":"<p>21 березня 1958 (55 років)</p>",
+		"date": [
+			{
+                "startDate":"1975",
+                "endDate":"1976",
+                "headline":"Робітник стадіону",
+                "text":"<p>м.Умань</p>",
+				"classname":"1",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1981,03",
+                "headline":"Головний агроном",
+                "text":"<p>колгосп «Слава» Володимир-Волинського району Волинської області.</p>",
+                "classname":"2",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1982",
+                "headline":"1-й секретар",
+                "text":"<p>Володимир-Волинський МК ЛКСМУ</p>",
+                "classname":"3",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1982",
+                "endDate":"1984",
+                "headline":"Армія",
+                "text":"<p></p>",
+				"classname":"4",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1984",
+                "endDate":"1985",
+                "headline":"майстер будівельник",
+                "text":"<p>майстер підрядних робіт ремонтно-будівельного управління, м. Євпаторія</p>",
+				"classname":"4",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1985,06",
+                "headline":"Оперуповноважений",
+                "text":"<p>Відділ боротьби з розкраданням соціалістичної власності, УВС м. Ялти Кримської області.</p>",
+                "classname":"5",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1989",
+                "headline":"Інструктор",
+                "text":"<p>Ялтинський МК КПУ</p>",
+                "classname":"6",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1989,10",
+                "headline":"Голова К/К",
+                "text":"<p>Голова контрольної комісії, Ялтинський МК КПУ</p>",
+                "classname":"7",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1992,03",
+                "headline":"юрист",
+                "text":"<p>Ялтинська філія «Інтерконтбанку»</p>",
+                "classname":"8",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"1993",
+                "endDate":"1996",
+                "headline":"юрист",
+                "text":"<p>санаторій «Узбекистан», м. Ялта.</p>",
+				"classname":"9",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1996",
+                "headline":"юрист",
+                "text":"<p>ПП «Улибка», ТОВ «Улибка-ЮБК», ТОВ «Бєлий Лєв»</p>",
+                "classname":"10",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2003,06",
+                "headline":"зам з питань ідеології",
+                "text":"<p>заступник голови з питань ідеології та місцевого самоврядування, Севастопільске міське відділення Партії регіонів.</p>",
+                "classname":"10",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            }			
+        ],
+        "era": [
+            {
+                "startDate":"1976",
+                "endDate":"2013",
+                "headline":"Наш час",
+                "text":"<p><p>",
+                "tag":""
+            }
+
+        ]
+    }
+}
