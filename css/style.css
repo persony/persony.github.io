@@ -864,6 +864,9 @@ border: 0px  !important;
 table.gsc-search-box {
 width:400px !important;
 }
+table.gsc-search-box input{
+margin:-3px 0px 0px 0px !important;
+}
 .gsc-control-cse{
 line-height: 0.8em !important;
 width:400px !important;
