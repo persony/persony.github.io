@@ -200,7 +200,7 @@
 
 	#header-wrapper
 	{
-		padding: 44px 0 0px 0;
+		padding: 5px 0 0px 0;
 	}
 	
 	#banner-wrapper
@@ -334,3 +334,36 @@
 		border-top: solid 1px #ccc;
 		margin: 4em 0 0 0;
 	}
+	
+
+table.gsc-search-box {
+width:350px !important;
+}
+.button{
+margin-top:10px;
+}
+.poisk{
+display:block !important;
+margin:0 auto !important;
+width:330px !important;
+}
+.container{
+padding-left:10px;
+}
+.img404{
+width:100%;
+}
+div.gsc-control-cse.gsc-control-cse-ru,form.gsc-search-box,.gsc-search-box,.gsc-input-box {
+height:40px !important;
+}
+.gsc-search-button .gsc-search-button-v2{
+height:38px !important;
+}
+input#gsc-i-id1.gsc-input
+{
+background-position:0% 50% !important;
+margin-top:7px !important;
+}
+.cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2{
+padding: 10px 24px !important;
+}
