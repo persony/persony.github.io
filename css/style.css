@@ -882,3 +882,6 @@ width: 67px !important;
 max-height:25px !important;
 }*/
 
+.gsc-option-menu-container .gsc-inline-block{
+	width:250px;
+}
