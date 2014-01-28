@@ -885,3 +885,9 @@ max-height:25px !important;
 .gsc-option-menu-container .gsc-inline-block{
 	width:110px !important;
 }
+.gsc-tabHeader .gsc-inline-block .gsc-tabhActive{
+	background:red !important;
+	height:50px !important;
+	width:200px !important;
+	
+}
