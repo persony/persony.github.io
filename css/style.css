@@ -888,7 +888,8 @@ max-height:25px !important;
 div.gsc-tabHeader.gsc-tabhInactive.gsc-inline-block,div.gsc-tabHeader.gsc-inline-block.gsc-tabhActive{
 	width:100px !important;
 	background:white !important;
-	border:0px;
+	border:0px !important;
+	padding:0px !important;
 }
 .gsc-tabHeader{
 	padding:0px !important;
