@@ -889,3 +889,7 @@ div.gsc-tabHeader.gsc-tabhInactive.gsc-inline-block,div.gsc-tabHeader.gsc-inline
 	width:100px !important;
 	background:white !important;
 }
+.gsc-tabHeader{
+	padding:0px !important;
+	
+}
