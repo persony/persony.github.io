@@ -865,7 +865,7 @@ table.gsc-search-box {
 width:400px !important;
 }
 table.gsc-search-box input{
-margin:-13px 0px 0px 0px !important;
+margin:0px 0px 0px 0px !important;
 }
 .gsc-control-cse{
 line-height: 0.8em !important;
