@@ -851,7 +851,7 @@ max-height:25px;
 .poisk{
 display:inline-block !important;
 margin-top:20px;
-}/*
+}
 form.gsc-search-box {
 height:25px !important;
 }
@@ -893,5 +893,9 @@ div.gsc-tabHeader.gsc-tabhInactive.gsc-inline-block,div.gsc-tabHeader.gsc-inline
 }
 .gsc-tabHeader{
 	padding:0px !important;
+	
+}
+input#gsc-i-id1.gsc-input{
+	background-position:center top !important;
 	
 }
